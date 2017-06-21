@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1470609547 source:c:\users\dougl\desktop\arquitetura\arquitetura\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+
+1470625439 source:c:\users\dougl\onedrive\arquitetura\arquitetura\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+
+1470935129 source:c:\users\douglas.mezuraro\desktop\arquitetura\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+
+1470796824 source:c:\users\dougl\onedrive\universidade\uem\disciplinas\2º ano\1º semestre\arquitetura\arquitetura\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+
+1470963932 source:c:\users\dougl\desktop\arquitetura\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+
